@@ -15,11 +15,7 @@ Software Engineering Specialist @Dassault Systèmes
 ##
  
 <div> 
-  <div align="center">
-    <br>
-    <p align="centre"><b>Visitors</b></p> 
-  </div>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AbhishekKudal}/count.svg" /></p> 
+  
   
   ![Snake animation](https://github.com/AbhishekKudal/AbhishekKudal/blob/output/github-contribution-grid-snake.svg)
 </div>
