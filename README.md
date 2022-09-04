@@ -12,6 +12,19 @@ Software Engineering Specialist @Dassault Systèmes
 
 <a href="http://www.github.com/AbhishekKudal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekKudal&stroke=ffffff&background=22272e&ring=e25822&fire=ffbd2e&currStreakNum=ffffff&currStreakLabel=cf352e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+##
+ 
+<div> 
+  <div align="center">
+    <br>
+    <p align="centre"><b>Visitors</b></p> 
+  </div>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AbhishekKudal}/count.svg" /></p> 
+  
+  ![Snake animation](https://github.com/AbhishekKudal/AbhishekKudal/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 <!--
 **AbhishekKudal/AbhishekKudal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
